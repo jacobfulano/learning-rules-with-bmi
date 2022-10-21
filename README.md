@@ -1,8 +1,12 @@
-# rnn-learning
-Mixing and matching biologically plausible learning rules for vanilla RNNs
+# Distinguishing Learning Rules with Brain Machine Interfaces
 
+This repository allows for mixing and matching biologically plausible learning rules for vanilla RNNs, with a focus on tasks and constrains inspired by Brain Machine Interface (BMI) experiments in non-human primates.
 
-Note that the following repository is a work in progress. Please contact j.portes@columbia.edu for more details.
+The following repository was custom built for the NeurIPS paper [Distinguishing Learning Rules with Brain Machine Interfaces (Portes, Schmid and Murray 2022)](https://arxiv.org/abs/2206.13448).
+
+Experiments for the NeurIPS 2022 submission are in the branch `experiments-neurips-2022`
+
+Please contact j.portes@columbia.edu for more details.
 
 ![RNN schematic](graphics/rnn-schematic.png)
 
