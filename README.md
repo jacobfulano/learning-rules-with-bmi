@@ -1,4 +1,4 @@
-# Distinguishing Learning Rules with Brain Machine Interfaces
+# Biological Learning Rules for BMI-inspired RNNs
 
 This repository allows for mixing and matching biologically plausible learning rules for vanilla RNNs, with a focus on tasks and constrains inspired by Brain Machine Interface (BMI) experiments in non-human primates.
 
